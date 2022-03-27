@@ -1,4 +1,4 @@
-NAME		=	bomber
+NAME		=	zombie_bomber
 CC			=	c++
 SRC			=	src/
 INCLUDES	=	includes/
